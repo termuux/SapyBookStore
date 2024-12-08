@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wxZcnUJuLP4=",
+  "success": true,
+  "projectFilePath": "/home/tion/RiderProjects/Bulky1/Bulky.Models/Bulky.Models.csproj",
+  "expectedPackageFiles": [
+    "/home/tion/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

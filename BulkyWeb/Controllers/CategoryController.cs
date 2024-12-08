@@ -1,4 +1,4 @@
-using BulkyWeb.Data;
+using Bulky.DataAcess.Data;
 using BulkyWeb.Models;
 using Microsoft.AspNetCore.Mvc;
 

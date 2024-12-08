@@ -143,3 +143,9 @@
 /home/tion/RiderProjects/Bulky1/BulkyWeb/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
 /home/tion/RiderProjects/Bulky1/BulkyWeb/obj/Debug/net8.0/BulkyWeb.csproj.AssemblyReference.cache
 /home/tion/RiderProjects/Bulky1/BulkyWeb/obj/Debug/net8.0/BulkyWeb.csproj.CopyComplete
+/home/tion/RiderProjects/Bulky1/BulkyWeb/bin/Debug/net8.0/Bulky.DataAcess.dll
+/home/tion/RiderProjects/Bulky1/BulkyWeb/bin/Debug/net8.0/Bulky.Models.dll
+/home/tion/RiderProjects/Bulky1/BulkyWeb/bin/Debug/net8.0/Bulky.Utility.dll
+/home/tion/RiderProjects/Bulky1/BulkyWeb/bin/Debug/net8.0/Bulky.DataAcess.pdb
+/home/tion/RiderProjects/Bulky1/BulkyWeb/bin/Debug/net8.0/Bulky.Models.pdb
+/home/tion/RiderProjects/Bulky1/BulkyWeb/bin/Debug/net8.0/Bulky.Utility.pdb
