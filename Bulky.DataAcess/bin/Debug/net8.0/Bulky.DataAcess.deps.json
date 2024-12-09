@@ -548,6 +548,10 @@
       },
       "System.Threading.Channels/6.0.0": {},
       "Bulky.Models/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.10",
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "8.0.10"
+        },
         "runtime": {
           "Bulky.Models.dll": {}
         }

@@ -13,6 +13,38 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/home/tion/RiderProjects/Bulky1/BulkyWeb/wwwroot/images/products/1b7bdf81-777c-4ec4-8799-f4b410132b5e.jpg",
+      "PackagePath": "staticwebassets/images/products/1b7bdf81-777c-4ec4-8799-f4b410132b5e.jpg"
+    },
+    {
+      "Id": "/home/tion/RiderProjects/Bulky1/BulkyWeb/wwwroot/images/products/541e04f3-d5fb-4ed9-bb53-f0a39777f17f.jpg",
+      "PackagePath": "staticwebassets/images/products/541e04f3-d5fb-4ed9-bb53-f0a39777f17f.jpg"
+    },
+    {
+      "Id": "/home/tion/RiderProjects/Bulky1/BulkyWeb/wwwroot/images/products/557fdd5a-6a96-4753-bba4-6415d6e3fe70.jpg",
+      "PackagePath": "staticwebassets/images/products/557fdd5a-6a96-4753-bba4-6415d6e3fe70.jpg"
+    },
+    {
+      "Id": "/home/tion/RiderProjects/Bulky1/BulkyWeb/wwwroot/images/products/60c928dd-b300-4323-b095-cf5302937055.gif",
+      "PackagePath": "staticwebassets/images/products/60c928dd-b300-4323-b095-cf5302937055.gif"
+    },
+    {
+      "Id": "/home/tion/RiderProjects/Bulky1/BulkyWeb/wwwroot/images/products/83759151-824e-4484-bc07-2c7ad0738aac.png",
+      "PackagePath": "staticwebassets/images/products/83759151-824e-4484-bc07-2c7ad0738aac.png"
+    },
+    {
+      "Id": "/home/tion/RiderProjects/Bulky1/BulkyWeb/wwwroot/images/products/a1fe0627-65cb-4f27-a8a6-9a21121820b8.jpg",
+      "PackagePath": "staticwebassets/images/products/a1fe0627-65cb-4f27-a8a6-9a21121820b8.jpg"
+    },
+    {
+      "Id": "/home/tion/RiderProjects/Bulky1/BulkyWeb/wwwroot/images/products/a7e94c2a-31dc-42c4-af41-4b4447ff848c.jpg",
+      "PackagePath": "staticwebassets/images/products/a7e94c2a-31dc-42c4-af41-4b4447ff848c.jpg"
+    },
+    {
+      "Id": "/home/tion/RiderProjects/Bulky1/BulkyWeb/wwwroot/images/products/e0a16feb-33be-43b8-a943-f3deffb5004e.jpg",
+      "PackagePath": "staticwebassets/images/products/e0a16feb-33be-43b8-a943-f3deffb5004e.jpg"
+    },
+    {
       "Id": "/home/tion/RiderProjects/Bulky1/BulkyWeb/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
