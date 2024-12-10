@@ -1,12 +1,13 @@
 using System.Data;
 using Bulky.Models;
 using BulkyWeb.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 
 namespace Bulky.DataAcess.Data;
 
-public class ApplicationDbContext :DbContext
+public class ApplicationDbContext :IdentityDbContext
 {
     private readonly IConfiguration _configuration;
     
@@ -20,7 +21,9 @@ public class ApplicationDbContext :DbContext
 
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
+    
     {
+        base.OnModelCreating(modelBuilder);
         modelBuilder.Entity<Category>().HasData(
             new Category { Id = 1, DisplayOrder = 1, Name = "Category 1" },
             new Category { Id = 2, DisplayOrder = 1, Name = "Category 2" },
@@ -124,4 +127,6 @@ public class ApplicationDbContext :DbContext
     
     public DbSet<Category> Categories { get; set; }
     public DbSet<Product> Products { get; set; }
+    
+    public DbSet<ApplicationUser> ApplicationUsers { get; set; }
 }
